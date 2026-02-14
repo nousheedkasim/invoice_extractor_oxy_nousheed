@@ -38,7 +38,7 @@ steps
 ======
 
 ### 1. Clone the Repository
-	git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git oxy-invoice-extractor
+	git clone https://github.com/nousheedkasim/invoice_extractor_oxy_nousheed oxy-invoice-extractor
 	cd oxy-invoice-extractor
 
 ### 2. Install PHP Dependencies
